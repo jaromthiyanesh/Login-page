@@ -1,0 +1,208 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+}
+
+.login-container {
+    background-image: url("./img.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.login-title{
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+   
+}
+.login-h1-log{
+    text-align: center;
+}
+
+  
+.login-box {
+    width: 300px;
+    height: 350px;
+    margin-left: 580px;
+    padding: 20px;
+    margin-top: 60px;
+    background-color: rgb(13, 12, 12);
+    color: white;
+    border-radius: 25px;
+  
+    
+  
+}
+
+
+input{
+    width: 250px;
+    height: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 20px;
+    margin-left: 10px;
+    
+}
+.login-content{
+    margin: 10px;
+}
+h2{
+    margin: 10px;
+}
+.login-p{
+    margin: 6px;
+    margin-left: 32px;
+}
+.login-button{
+    padding: 5px;
+    background-color: white;
+    width: 90px;
+    height:40px;
+    margin-left: 115px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+    
+}
+
+/* --------------------------------------------------------------------------------------------------- */
+.signup-container {
+    background-image: url("./img.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+   
+}
+
+.signup-title{
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+
+   
+}
+
+  
+.signup-box {
+    width: 700px;
+    height: 560px;
+    margin-left: 400px;
+    
+    background-color: rgb(13, 12, 12);
+    color: white;
+    border-radius: 25px;
+    
+  
+}
+
+
+
+input{
+    width: 250px;
+    height: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 20px;
+    
+}
+.signup-content{
+    margin: 10px;
+}
+.signup-h1-log{
+    text-align: center;
+    margin-top: 20px;
+    
+    padding: 20px;
+}
+h2{
+    margin: 20px;
+}
+.signup-p{
+    margin: 20px;
+    margin-left: 75px;
+}
+.signup-button{
+    padding: 5px;
+    background-color: white;
+    width: 200px;
+    height:40px;
+    margin-left: 270px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+    display: inline-block;
+    
+}
+.first{
+    display: inline-block;
+    margin-left: 45px;
+  
+}
+.last{
+    display: inline-block;
+    margin-left: 40px;
+}
+.email{
+    display: inline-block;
+    margin-left: 45px;
+}
+.password{
+    margin-left: 40px;
+    display: inline-block;
+}
+.confirmpass{
+    margin-left:45px;
+    
+}
+
+/* ================================================================================================== */
+
+
+.profile-title-h1{
+    font-size: 60px;
+    padding: 20px;
+}
+
+.profile-button{
+    padding: 5px;
+    background-color: white;
+    width: 200px;
+    height:40px;
+    margin-left: 270px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+    
+}
+.profile-box{
+    width: 500px;
+    height:300px;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    margin-left: 470px;
+    padding: 30px;
+    margin-top: 60px;
+}
+.profile-container{
+    background-image: url("./img.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    text-align: center;
+    
+    
+    
+}
+.profile-head{
+    text-align: center;
+    margin-top: 10px;
+    
+    padding: 15px;
+}
